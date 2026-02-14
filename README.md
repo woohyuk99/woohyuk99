@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @woohyuk99
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning HTML, CSS, Javascript
+# WOOHYUK BYUN | JAVA Web Developer
+
+Java / Spring Boot와 AWS 기반의 웹 개발자
+
+## About Me
+- Java / Spring Boot 기반 서버 개발 학습 및 프로젝트 경험
+- REST API 설계, DB 연동, 배포까지 전체 흐름 이해
+- 기능 단위 커밋과 문서화 습관
 
 
-<!---
-woohyuk99/woohyuk99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+- Backend: Java, Spring Boot, JPA
+- Frontend: JSP, Thymeleaf
+- DB: MySQL, PostgreSQL
+- Infra: AWS EC2, Docker
+- Tools: Git, GitHub Actions
+
+## Projects
+- Web API
+-> 인증/ CRUD API 구현, AWS 배포 경험
+
+
+## Contact
+- Email: qusdngur1008@gmail.com
